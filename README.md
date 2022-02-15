@@ -1,4 +1,10 @@
 # NeODEs
-Deep Neural Network for systems of ODEs
+##Deep Neural Network for systems of ODEs
 
 Given two coupled system of differential equations with initial conditions, the code will perform: an experiment on the choice of numbers of neurons for better performance, experimentally compares the effectiveness of one versus two hidden layer for the given problem, solve deep neural network solution and compare with the analytical solution if closed form is provided. Lastly, it compares the deep neural network with the RK4 method.
+
+## functions.py
+The functions.py file contains collections of funcitons for excecuting differenti experiments and solving systems of ordinary differential equations. 
+
+## main.py
+The file main.py contains four experiments using the fucnions 
