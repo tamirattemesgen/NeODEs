@@ -22,4 +22,13 @@ A system of differential equations with two unkown. Compared with analytical sol
 Compares the Deep neural network with Runge-Kutta order 4
 
 
+@article{dufera2021deep,
+  title={Deep neural network for system of ordinary differential equations: vectorized algorithm and simulation},
+  author={Dufera, Tamirat Temesgen},
+  journal={Machine Learning with Applications},
+  volume={5},
+  pages={100058},
+  year={2021},
+  publisher={Elsevier}
+}
 
