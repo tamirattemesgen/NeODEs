@@ -6,5 +6,20 @@ Given two coupled system of differential equations with initial conditions, the 
 ## functions.py
 The functions.py file contains collections of funcitons for excecuting differenti experiments and solving systems of ordinary differential equations. 
 
-## main.py
-The file main.py contains four experiments using the fucnions 
+## Experiment1.py
+
+Experiment for comparing the performance of the network as a fucntion of numbers of neuron.
+The code is for system of differential equations with two unknowns. 
+
+## Experiment2.py
+Experiment for comparing one hidden layer vs two hidden layers. The code is for system of differential equations with two uknowns.
+
+## Experiment3.py
+It is the code for implementation of the ANN.
+A system of differential equations with two unkown. Compared with analytical solution.
+
+## Experiment4.py
+Compares the Deep neural network with Runge-Kutta order 4
+
+
+
